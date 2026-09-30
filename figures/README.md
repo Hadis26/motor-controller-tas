@@ -61,7 +61,7 @@ The result demonstrates that relatively simple modifications to the classical co
 
 **Based on:** Report Figure 3.3
 
-[MPC velocity control](mpc.jpg)
+![MPC velocity control](mpc.jpg)
 
 ### What the figure shows
 
